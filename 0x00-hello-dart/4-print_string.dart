@@ -1,4 +1,5 @@
 void main() {
-  var n = 3.14159265359;
-  print(n.toStringAsFixed(2));
+  String str = "Holberton School";
+    print(str*3);
+    print("Holberton\n");
 }

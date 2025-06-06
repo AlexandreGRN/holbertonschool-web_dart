@@ -1,5 +1,4 @@
 void main() {
-  var n = 98;
-  var a = 'Battery street';
-  print('${n} ${a}');
+  var n = 3.14159265359;
+  print(n.toStringAsFixed(2));
 }
